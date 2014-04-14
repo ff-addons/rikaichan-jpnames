@@ -1,0 +1,9 @@
+content	rikaichan-jpnames	jar:chrome/rikaichan-jpnames.jar!/content/
+
+overlay	chrome://browser/content/browser.xul			chrome://rikaichan-jpnames/content/overlay.xul
+
+overlay	chrome://messenger/content/messenger.xul		chrome://rikaichan-jpnames/content/overlay.xul
+overlay	chrome://messenger/content/messageWindow.xul	chrome://rikaichan-jpnames/content/overlay.xul
+overlay	chrome://messenger/content/messengercompose/messengercompose.xul	chrome://rikaichan-jpnames/content/overlay.xul
+
+overlay	chrome://navigator/content/navigator.xul		chrome://rikaichan-jpnames/content/overlay.xul
