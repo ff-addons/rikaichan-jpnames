@@ -1,4 +1,4 @@
-content	rikaichan-jpnames	jar:chrome/rikaichan-jpnames.jar!/content/
+content	rikaichan-jpnames	chrome/content/
 
 overlay	chrome://browser/content/browser.xul			chrome://rikaichan-jpnames/content/overlay.xul
 
